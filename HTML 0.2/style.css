@@ -1,0 +1,58 @@
+#h2_test{
+    text-align: center;
+    font-family: cursive;
+  }
+  .p_test{
+    text-align: center;
+    font-family: "Trebuchet MS";
+  }
+  #p_portefolio{
+    font-family:cursive;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    border-radius: 10px;
+    background-color: white;
+    color: slateblue;
+    margin: 0 20% 0 20%;
+    padding: 10px;
+  }
+  body{
+    background: linear-gradient(skyblue, lightblue);
+  }
+  img{
+    border-radius: 75px;
+  }
+  .i_test{
+    margin: 0 20% 0 40%;
+  }
+.i_avatar{
+    /*Mettre en haut à droite comme une image avatar avec l'option clique ! */
+    position: absolute;
+    top: 0;
+    right: 0
+}
+.b_1{
+    margin: 5% 20% 0 20%;
+    background-color: aliceblue;
+    cursor: pointer;
+    border-radius: 5px;
+    color: rgb(0, 162, 255);
+    border: none;
+    transition: background-color 0.3s, transform 0.2s; /*Effet de transition */
+}
+.b_2{
+  margin: 0% 0% 0 20%;
+  background-color: aliceblue;
+  cursor: pointer;
+  border-radius: 5px;
+  color: rgb(0, 162, 255);
+  border: none;
+  transition: background-color 0.3s, transform 0.2s; /*Effet de transition */
+}
+#form_search_web{
+  margin: 5px 30% 5px 30%;
+}
+#form_search{
+  margin: 5px 20% 0 20%;
+}
